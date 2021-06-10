@@ -15,6 +15,9 @@ public class LearnGenerics
 		Generics<String> generics2 = new Generics<>("Anything");	
 		System.out.println(generics.getObj());
 		
+		= new Generics("12a");
+		= new Generics(12);
+		Generics(Object o){}
 		generics.objType();
 	}
 }
